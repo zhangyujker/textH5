@@ -1,0 +1,62 @@
+body{
+    background-color: lightgray;
+}
+.title{
+    text-align: center;
+}
+.banner img{
+  width: 100%;
+  height: auto;
+}
+.zhuyao div{
+    display: flex;
+    flex-direction: column;
+}
+.zhuyao{
+    /*margin-bottom: 50px;*/
+}
+.zhuyao div img{
+    width: 100%;
+    border: 2px solid lightcyan;
+    padding: 10px;
+    margin: 20px 10px 20px 10px ;
+    background-color: white;
+}
+.zhuyao .left{
+
+}
+.zhuyao .right{
+    padding-top: 70px;
+}
+.zhuyao .tc-1{
+    position: relative;
+}
+.zhuyao .tc-1 .logo{
+    padding: 0px;
+    margin: 0px;
+    border: none;
+    position: absolute;
+    width: 25px;
+    height: 35px;
+    left: calc(100% + 5px);
+    top: 30%;
+}
+.zhuyao .tc-2{
+    position: relative;
+}
+.zhuyao .tc-2 .logo-1{
+    padding: 0px;
+    margin: 0px;
+    border: none;
+    position: absolute;
+    width: 25px;
+    height: 35px;
+    left:-10px;
+    top: 30%;
+}
+.yejiao{
+    text-align: center;
+}
+a{
+   text-decoration:none;
+}

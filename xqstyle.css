@@ -1,0 +1,69 @@
+body{
+    background-color: lightgray;
+}
+.banner img{
+    width: 100%;
+    height: auto;
+}
+.phone{
+    display: flex;
+    justify-content: space-between;
+     background-color: lightgreen;
+}
+.xqbtn{
+    padding: 5px;
+    color: green;
+    border: 1px solid green;
+    font-size: 1em;
+    margin: 10px;
+    height: 2.5em;
+    border-radius: 7px;
+   
+}
+.xqbtn img{
+    width: 1.5em;
+    height: 1.5em;
+}
+.jiben{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 5px;
+    background-color: white;
+   
+}
+.jiben img{
+    width: 1.5em;
+    height: 1.5em;
+    margin-right: 30px;
+    margin-left: 10px;
+}
+.neirong{
+    background-color: white;
+    padding:5px;
+    line-height: 1.1em;
+    margin-bottom: 20px;
+}
+.map{
+    background-color: white;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+.mapimg{
+    width: 100%;
+    height: auto;
+}
+.jieshao{
+    background-color: white;
+    padding: 5px;
+}
+.jieshao div{
+    border-top: 2px solid lightgrey;
+    text-align: center;
+}
+.jieshao div img{
+    width: 1em;
+    height: 1em;
+    /*margin-top: 10px;*/
+    /*margin-bottom: -30px;*/
+}
